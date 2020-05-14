@@ -1,3 +1,2 @@
 # iniciandonogit
-Iniciando no Git
-Teste 01
+Boas vindas!
